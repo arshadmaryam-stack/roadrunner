@@ -9,10 +9,13 @@ A computer science gradute, Matt, finds himself in the renowned job market. Help
 * Arcade
   * install by running `pip install arcade` in the terminal
 
-# installing
+# Installing
+1. Download or clone the project folder.
+2. Ensure Python 3.13 and Arcade are installed.
+3. Keep all files (code + assets) in the same directory.
 
-# executing program
-Run this to play the game!
+# Executing Program
+Run this to play the game:
 `python main.py`
 
 # Authors
