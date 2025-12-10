@@ -25,6 +25,6 @@ Run this to play the game:
 * Elaine Zuo
 
 # Acknowledgments
-Our professor, Matthew Soparana, and his TAs
-ChatGPT
-Arcade Game Tutorial
+* Our professor, Matthew Soparana, and his TAs
+* ChatGPT
+* Arcade Game Tutorial
