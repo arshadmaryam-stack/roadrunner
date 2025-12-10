@@ -19,10 +19,10 @@ Run this to play the game:
 `python main.py`
 
 # Authors
-Maryam Arshad
-Justin Mathews
-Micaiah Frisby
-Elaine Zou
+* Maryam Arshad
+* Justin Mathews
+* Micaiah Frisby
+* Elaine Zuo
 
 # Acknowledgments
 Our professor, Matthew Soparana, and his TAs
