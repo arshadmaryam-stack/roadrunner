@@ -5,9 +5,9 @@ Rouadrunner: Job Takeover is an adoptation of a simple aracde-style game. It was
 A computer science gradute, Matt, finds himself in the renowned job market. Help him avoid evil job applications while collecting coins to beat the final boss so he can finally make money!
 
 # Dependencies
-Python 3.13
-Arcade
-* install by running `pip install arcade` in the terminal
+*Python 3.13
+*Arcade
+  * install by running `pip install arcade` in the terminal
 
 # installing
 
