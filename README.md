@@ -1,12 +1,13 @@
 # Roadrunner: Job Takeover
 Rouadrunner: Job Takeover is an adoptation of a simple aracde-style game. It was made for a final project in an introductory python class.
 
-# description
-A computer science gradute, Matt, finds himself in the job market. Help him avoid job applications and beat the boss so he can make money!
+# Description
+A computer science gradute, Matt, finds himself in the renowned job market. Help him avoid evil job applications while collecting coins to beat the final boss so he can finally make money!
 
-# dependencies
+# Dependencies
 Python 3.13
 Arcade
+* install by running `pip install arcade` in the terminal
 
 # installing
 
@@ -20,7 +21,7 @@ Justin Mathews
 Micaiah Frisby
 Elaine Zou
 
-# acknowledgments
+# Acknowledgments
 Our professor, Matthew Soparana, and his TAs
 ChatGPT
 Arcade Game Tutorial
