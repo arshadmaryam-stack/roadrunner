@@ -1,8 +1,11 @@
 # Roadrunner: Job Takeover
-Rouadrunner: Job Takeover is an adoptation of a simple aracde-style game. It was made for a final project in an introductory python class.
+Rouadrunner: Job Takeover is a simple adoptation of a simple aracde-style game. It was made for a final project in an introductory python class.
 
 # Description
 A computer science gradute, Matt, finds himself in the renowned job market. Help him avoid evil job applications while collecting coins to beat the final boss so he can finally make money!
+
+# Controls
+Upon loading the game up, the player must click space to start playing. Roadrunner: Job Takeover relies on the player to use their arrow keys to move Matt, the sprite. Clikcing R at anytime will restart the game. Once the game is over, the player is given the option to click space to play again or the up arrow key to return to the main menu.
 
 # Dependencies
 * Python 3.13
